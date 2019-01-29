@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Who Picker</string>
+
+    <string name="button_random">Random</string>
+
+    <string name="selection">What are you interested in watching?</string>
+
+    <string name="noEpisode">Press random\nfor an episode </string>
+
+    <string name="pickAll">All of it!</string>
+    <string name="pickSeason">Which season?</string>
+    <string name="pickSpecial">What kind of Special?</string>
+    <string name="pickDoctor">What Doctor to follow?</string>
+    <string name="pickEnemy">What enemy to defeat?</string>
+    <string name="pickMood">What kind of mood are you in?</string>
+    <string name="pickError">There was an error!</string>
+
+</resources>

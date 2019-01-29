@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="spin_select">
+        <item>Anything</item> <!-- spin_any -->
+        <item>Season</item> <!--  -->
+        <item>Special</item> <!-- spin_any -->
+        <item>Doctor</item> <!-- spin_doctor -->
+        <item>Enemy</item> <!-- spin_enemy -->
+        <item>Mood</item>
+    </string-array>
+
+    <string-array name="spin_mood">
+        <item>Happy</item>
+        <item>Scary</item>
+        <item>Odd</item>
+    </string-array>
+
+    <string-array name="spin_enemy">
+        <item>The Silence</item>
+        <item>The Master</item>
+        <item>Sontarans</item>
+    </string-array>
+
+    <string-array name="old_doctor"> <!-- Not used, just a data keeper -->
+        <item>1 / William Hartnell</item>
+        <item>2 / Patrick Troughton</item>
+        <item>3 / Jon Pertwee</item>
+        <item>4 / Tom Baker</item>
+        <item>5 / Peter Davison</item>
+        <item>6 / Colin Baker</item>
+        <item>7 / Sylvester McCoy</item>
+        <item>8 / Paul McGann</item>
+    </string-array>
+
+    <string-array name="spin_doctor">
+        <item>9 / Christopher Eccleston</item>
+        <item>10 / David Tennant</item>
+        <item>11 / Matt Smith</item>
+        <item>12 / Peter Capaldi</item>
+        <item>13 / Jodie Whittaker</item>
+    </string-array>
+
+    <string-array name="spin_special">
+        <item>Any Special</item>
+        <item>Christmas!</item>
+        <item>Not Christmas</item>
+    </string-array>
+
+    <string-array name="spin_season">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+
+    <string-array name="spin_any">
+        <item>Any</item>
+    </string-array>
+
+    <string-array name="spin_error">
+        <item>Error!</item>
+    </string-array>
+
+</resources>
